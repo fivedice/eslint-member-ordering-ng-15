@@ -1,3 +1,5 @@
+https://github.com/angular-eslint/angular-eslint/issues/1311
+
 This reproduces a new Angular 15 project configured with @angular-eslint
 and using the @typescript-eslint/member-ordering rule.
 
